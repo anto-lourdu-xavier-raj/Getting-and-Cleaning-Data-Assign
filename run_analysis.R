@@ -71,8 +71,8 @@
 #          
 #           Details on the 'tidy_data_summary' table can be found,
 #           at 'CodeBook.md' that exist in the Git Hub, from the link:
-#          
-#            "https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md"
+#           https://github.com/anto-lourdu-xavier-raj/Getting-and-Cleaning-Data-Assign/blob/master/CodeBook.md
+#           
 
 
 
