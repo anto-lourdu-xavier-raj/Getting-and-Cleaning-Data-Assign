@@ -23,8 +23,7 @@
 #            to download and extract the needed files for 'run_analysis.R'.
 #            It is recommended to use it, but not necessary.
 #            It is available on Git Hub, through this link:
-#            "https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/get_project_data.R"
-#
+#            https://github.com/anto-lourdu-xavier-raj/Getting-and-Cleaning-Data-Assign/blob/master/run_analysis.R#
 #            ABOUT
 #            The script was created:
 #               - in RStudio Version 1.1.383
@@ -72,8 +71,8 @@
 #          
 #           Details on the 'tidy_data_summary' table can be found,
 #           at 'CodeBook.md' that exist in the Git Hub, from the link:
-#           "https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md"
-#
+#          
+#            "https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md"
 
 
 
